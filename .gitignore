@@ -17,3 +17,4 @@ myenv/
 # Django-specific
 db.sqlite3
 media/
+*.pyc
