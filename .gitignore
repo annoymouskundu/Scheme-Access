@@ -18,3 +18,5 @@ myenv/
 db.sqlite3
 media/
 *.pyc
+
+/Hello/frontend app/*.py
